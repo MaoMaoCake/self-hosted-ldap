@@ -6,6 +6,7 @@ Inspired from [awesome-self-hosted](https://github.com/awesome-selfhosted/awesom
 ## Servers
  - [LLDAP](https://github.com/nitnelave/lldap)
  - [OpenLDAP](https://www.openldap.org/)
+ - [FreeIPA](https://www.freeipa.org/page/Main_Page)
 
 ## Productivity
  - [Nextcloud](https://nextcloud.com)
@@ -40,6 +41,16 @@ Inspired from [awesome-self-hosted](https://github.com/awesome-selfhosted/awesom
 ## Authentication
 - [Authelia](https://www.authelia.com/)
 - [Keycloak](https://www.keycloak.org/)
+
 ## Source Control
 - [Gitea](https://gitea.io/en-us/)
 
+## Email
+-[RoundCube](https://roundcube.net/)
+
+## Linux
+Cheating I Know but its my List :D
+- [PAM_LDAP](https://wiki.debian.org/LDAP/PAM)
+
+## Cheats
+using keycloak it is possible to integrate LDAP with OAuth2 apps
