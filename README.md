@@ -46,8 +46,10 @@ Inspired from [awesome-self-hosted](https://github.com/awesome-selfhosted/awesom
 - [Gitea](https://gitea.io/en-us/)
 
 ## Email
--[RoundCube](https://roundcube.net/)
+- [RoundCube](https://roundcube.net/)
 
+## Chat
+- [Matrix](https://matrix.org/)
 ## Linux
 Cheating I Know but its my List :D
 - [PAM_LDAP](https://wiki.debian.org/LDAP/PAM)
