@@ -9,8 +9,8 @@ Inspired from [awesome-self-hosted](https://github.com/awesome-selfhosted/awesom
 
 ## Productivity
  - [Nextcloud](https://nextcloud.com)
- - [BookStack]()
- - [Calibre-Web]()
+ - [BookStack](https://www.bookstackapp.com/)
+ - [Calibre-Web](https://github.com/janeczku/calibre-web)
  - [Jitsi Meet](https://meet.jit.si/)
 ## CRM/ERP
 - [Odoo](https://www.odoo.com/)
@@ -31,14 +31,14 @@ Inspired from [awesome-self-hosted](https://github.com/awesome-selfhosted/awesom
 ### Software
 - [Portainer](https://www.portainer.io/)
 - [Sandstorm](https://sandstorm.io/)
-- [Apache Guacamole]()
+- [Apache Guacamole](https://guacamole.apache.org/)
 - [WireGuard Portal](https://github.com/h44z/wg-portal)
 #### Dashboard
 - [Grafana](https://grafana.com/)
 - [Organizr](https://organizr.app/)
 
 ## Authentication
-- [Authelia]()
+- [Authelia](https://www.authelia.com/)
 - [Keycloak](https://www.keycloak.org/)
 ## Source Control
 - [Gitea](https://gitea.io/en-us/)
