@@ -7,6 +7,7 @@ Inspired from [awesome-self-hosted](https://github.com/awesome-selfhosted/awesom
  - [LLDAP](https://github.com/nitnelave/lldap)
  - [OpenLDAP](https://www.openldap.org/)
  - [FreeIPA](https://www.freeipa.org/page/Main_Page)
+ - [GLAuth](https://github.com/glauth/glauth)
 
 ## Productivity
  - [Nextcloud](https://nextcloud.com)
