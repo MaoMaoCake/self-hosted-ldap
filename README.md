@@ -57,5 +57,8 @@ Inspired from [awesome-self-hosted](https://github.com/awesome-selfhosted/awesom
 Cheating I Know but its my List :D
 - [PAM_LDAP](https://wiki.debian.org/LDAP/PAM)
 
+## Meal Planner / Recipe Manager
+- [Mealie](https://hay-kot.github.io/mealie/)
+
 ## Cheats
 using keycloak it is possible to integrate LDAP with OAuth2 apps
