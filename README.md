@@ -51,6 +51,8 @@ Inspired from [awesome-self-hosted](https://github.com/awesome-selfhosted/awesom
 
 ## Chat
 - [Matrix](https://matrix.org/)
+- [Prosody XMPP](https://prosody.im/doc/modules/mod_auth_ldap)
+
 ## Linux
 Cheating I Know but its my List :D
 - [PAM_LDAP](https://wiki.debian.org/LDAP/PAM)
