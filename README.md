@@ -59,6 +59,7 @@ Cheating I Know but its my List :D
 
 ## Meal Planner / Recipe Manager
 - [Mealie](https://hay-kot.github.io/mealie/)
+- [Grocy](https://grocy.info/)
 
 ## Cheats
 using keycloak it is possible to integrate LDAP with OAuth2 apps
