@@ -8,6 +8,8 @@ Inspired from [awesome-self-hosted](https://github.com/awesome-selfhosted/awesom
  - [OpenLDAP](https://www.openldap.org/)
  - [FreeIPA](https://www.freeipa.org/page/Main_Page)
  - [GLAuth](https://github.com/glauth/glauth)
+ - [389d](https://directory.fedoraproject.org/index.html)
+ - [Apache Directory](https://directory.apache.org/)
 
 ## Productivity
  - [Nextcloud](https://nextcloud.com)
