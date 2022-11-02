@@ -31,12 +31,14 @@ Inspired from [awesome-self-hosted](https://github.com/awesome-selfhosted/awesom
  ### Hardware
 - [pfSense](https://pfsense.org/)
 - [TrueNAS](https://www.truenas.com/)
+- [Proxmox](https://www.proxmox.com/en/)
 
 ### Software
 - [Portainer](https://www.portainer.io/)
 - [Sandstorm](https://sandstorm.io/)
 - [Apache Guacamole](https://guacamole.apache.org/)
 - [WireGuard Portal](https://github.com/h44z/wg-portal)
+
 #### Dashboard
 - [Grafana](https://grafana.com/)
 - [Organizr](https://organizr.app/)
