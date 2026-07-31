@@ -46,6 +46,7 @@ Inspired from [awesome-self-hosted](https://github.com/awesome-selfhosted/awesom
 ## Authentication
 - [Authelia](https://www.authelia.com/)
 - [Keycloak](https://www.keycloak.org/)
+- [Pocket ID](https://pocket-id.org)
 
 ## Source Control
 - [Gitea](https://gitea.io/en-us/)
